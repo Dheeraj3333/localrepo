@@ -40,7 +40,7 @@ let MyFunction =  () => {
         console.log(flag);
     }
     else if(flag == 7){
-        box.style.backgroundColor = "#fff";
+        box.style.backgroundColor = "transparent";
         flag = 0;
         console.log(flag);
     }
